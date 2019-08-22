@@ -1,0 +1,19 @@
+{
+    "name": "demoscss",
+    "version": "1.0.0",
+    "description": "responsive",
+    "main": "index.js",
+    "scripts": {
+        "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NaTaShaRMN/demoScss.git"
+    },
+    "author": "Tuan Nguyen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/NaTaShaRMN/demoScss/issues"
+    },
+    "homepage": "https://github.com/NaTaShaRMN/demoScss#readme"
+}
